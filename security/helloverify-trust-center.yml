@@ -1,0 +1,30 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.helloverify.com/en/technology
+url: https://www.helloverify.com/en/technology
+notes: >-
+  HelloVerify does not host a dedicated trust.helloverify.com portal; the audited
+  security and compliance posture is published on the Technology page and
+  summarized in llms.txt. Certifications captured below are named on that page.
+certifications:
+  - ISO/IEC 27001:2022
+  - ISO/IEC 27701:2019
+  - ISO 9001:2015
+  - ISO 22301:2019
+  - Cyber Essentials
+  - Cyber Essentials Plus
+  - GDPR
+data_protection:
+  - Bank-grade security and encryption
+  - Forgery-protected, auditable primary-source verification reports
+memberships:
+  - PBSA (Professional Background Screening Association)
+  - NSR (National Skills Registry)
+auditors:
+  - TUV (ISO certifications)
+  - Predatech (Cyber Essentials)
+evidence:
+  - source: https://www.helloverify.com/en/technology
+    keywords: [iso 27001, iso 27701, cyber essentials, gdpr, bank-grade security]
+  - source: https://www.helloverify.com/llms.txt
+    keywords: [iso/iec 27001, iso/iec 27701, gdpr, pbsa, primary source verification]

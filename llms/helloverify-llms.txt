@@ -1,0 +1,75 @@
+# HelloVerify
+
+> HelloVerify is India's leading background verification (BGV) company, providing fast, accurate, and compliant screening for employment, healthcare, immigration, and enterprise workforce programs. 20M+ verifications completed for 2000+ organizations across 120+ countries.
+
+HelloVerify delivers AI-powered background checks, primary source verification (PSV), and authority-specific screening programs for regulators, enterprises, SMBs, and applicants worldwide. Public site locales: English (`/en`), Hindi (`/hi`), Arabic (`/ar`).
+
+## Company
+
+- Name: HelloVerify
+- Website: https://www.helloverify.com
+- Industry: Background verification, KYC, primary source verification
+- Headquarters: India (global operations in 120+ countries)
+- Contact: hello@helloverify.com | support@helloverify.com
+- LinkedIn: https://linkedin.com/company/helloverify
+
+## Core services
+
+- Employment verification and criminal background checks
+- Education and qualification verification (primary source)
+- Healthcare professional credential verification (PSV)
+- Immigration and visa pre-screening
+- International background checks (120+ countries)
+- Vendor and third-party due diligence (Certifier)
+- Customer KYC with identity and liveness checks
+- Instant verification via HelloV (WhatsApp and messaging)
+
+## Key pages
+
+- [Home](https://www.helloverify.com/en): AI-powered background verification platform overview
+- [About](https://www.helloverify.com/en/about): Company story, trust metrics, and certifications
+- [Technology](https://www.helloverify.com/en/technology): Platform, APIs, security, and compliance posture
+- [Contact](https://www.helloverify.com/en/contact): Sales enquiries and application tracking
+- [Employee verification](https://www.helloverify.com/en/employee-verification): White- and blue-collar workforce screening
+- [International checks](https://www.helloverify.com/en/international): Global background screening programs
+- [Blog](https://www.helloverify.com/en/blog): BGV compliance, FIR checks, and address verification insights
+
+## Solutions (government & authorities)
+
+- [Health authorities](https://www.helloverify.com/en/solutions/health-authorities): Healthcare credential PSV
+- [Immigration authorities](https://www.helloverify.com/en/solutions/immigration-authorities): Visa and migration pre-screening
+- [Education qualification](https://www.helloverify.com/en/solutions/manpower-and-education-authorities): Academic credential verification
+- [Ministry of Manpower (Singapore)](https://www.helloverify.com/en/solutions/manpower-and-education-authorities/ministry-of-manpower): MOM COMPASS qualification verification
+- [Business & trade authorities](https://www.helloverify.com/en/solutions/trade-authorities): Business entity and workforce compliance
+
+## Products
+
+- [BGV for enterprise](https://www.helloverify.com/en/products/bgv-enterprise): Large-scale workforce background verification
+- [BGV for SMB](https://www.helloverify.com/en/products/bgv-smb): Background checks for growing businesses
+- [Certifier](https://www.helloverify.com/en/products/certifier): Vendor and third-party BGV
+- [Immigration services](https://www.helloverify.com/en/products/immigration): Visa screening workflows
+- [HelloV](https://www.helloverify.com/en/products/hellov): Instant verify-anyone on messaging channels
+- [Customer KYC](https://www.helloverify.com/en/products/customer-kyc): Identity verification and onboarding
+
+## Premium services
+
+- [Premium services hub](https://www.helloverify.com/en/premium): Guided assistance for complex applications
+
+## Legal & policies
+
+- [Privacy policy](https://www.helloverify.com/en/privacy-policy)
+- [Cookie policy](https://www.helloverify.com/en/cookie-policy)
+- [Terms and conditions](https://www.helloverify.com/en/terms-and-conditions)
+- [Refund policy](https://www.helloverify.com/en/refund-policy)
+
+## Trust & compliance
+
+- ISO/IEC 27001 and ISO/IEC 27701 certified
+- GDPR aligned data protection practices
+- PBSA member
+- Primary source verification with auditable, forgery-protected reports
+
+## Optional
+
+- [Sitemap](https://www.helloverify.com/sitemap.xml): Full list of public URLs (en, hi, ar)
+- [Robots](https://www.helloverify.com/robots.txt): Crawler directives
