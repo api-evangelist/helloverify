@@ -53,6 +53,15 @@ tags:
 - KYC
 - Primary Source Verification
 - Compliance
+- Human Resources
+tags_raw:
+- Company
+- Background Verification
+- Employee Screening
+- Identity Verification
+- KYC
+- Primary Source Verification
+- Compliance
 - HR Tech
 apis: []
 maintainers:
